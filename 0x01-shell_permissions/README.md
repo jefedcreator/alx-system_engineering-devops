@@ -11,3 +11,4 @@ File 9-John_Doe: Creates a script that sets the mode of thefile to -rwxr-x-wx
 File 10-mirror_permissions creates a script that sets the mode of the file the same as olleh's mode
 File 11-directories_permissions Creates a script that adds execute permissions to all subdirectories of the current directories for the owner, the group owner and all other users
 File 12-directory_permissions creates a script that creates a directory called dir_holberton with pwermissions 751 in the working directory
+File 13-change_group creates a script that changes the group owner to holberton for the file hello
