@@ -27,3 +27,5 @@ File 12-newest_files is a script that displays the 10 newest files in the curren
 File 13-unique is a script that takes a list of words as input and prints only words that appear exactly once.
 
 File 14-findthatword displays lines containing the pattern “root” from the file /etc/passwd.
+
+File 15-countthatword displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
