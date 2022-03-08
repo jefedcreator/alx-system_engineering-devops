@@ -9,3 +9,4 @@ File 7 - Create a script that creates a new global variable.
 File 8 - Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 File 9 - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 File 10 - Write a script that displays the result of BREATH to the power LOVE
+File 11 - Write a script that converts a number from base 2 to base 10.
