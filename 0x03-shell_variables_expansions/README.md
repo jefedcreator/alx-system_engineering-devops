@@ -12,3 +12,4 @@ File 10 - Write a script that displays the result of BREATH to the power LOVE
 File 11 - Write a script that converts a number from base 2 to base 10.
 File 12 - Create a script that prints all possible combinations of two letters, except oo.
 File 13 - Write a script that prints a number with two decimal places, followed by a new line.
+File 14 - Write a script that converts a number from base 10 to base 16.
