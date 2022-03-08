@@ -10,3 +10,4 @@ File 8 - Write a script that prints the result of the addition of 128 with the v
 File 9 - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 File 10 - Write a script that displays the result of BREATH to the power LOVE
 File 11 - Write a script that converts a number from base 2 to base 10.
+File 12 - Create a script that prints all possible combinations of two letters, except oo.
